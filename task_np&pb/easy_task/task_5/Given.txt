@@ -1,0 +1,16 @@
+Task 5 (Matplotlib): Sales Growth Visualization
+Use the revenue data from Task 4.
+Plot a line chart, where the X-axis represents months and the Y-axis represents revenue.
+Add axis labels, a title, and a grid.
+Highlight the month with the highest revenue using a red dot.
+Save the plot as revenue_plot.png.
+
+
+
+Задача 5 (Matplotlib): Визуализация роста продаж
+Используй данные о выручке из Задачи 4.
+
+Построй линейный график, где ось X — это месяцы, а ось Y — доход.
+Добавь подписи осей, заголовок и сетку.
+Выдели месяц с максимальной выручкой красной точкой.
+Сохрани график в файл revenue_plot.png.
