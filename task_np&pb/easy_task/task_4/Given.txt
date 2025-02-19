@@ -1,0 +1,14 @@
+Task 3 (NumPy + Pandas): Company Revenue Analysis
+Create a NumPy array of 12 random numbers from 1 to 10 (representing the company's monthly revenue in millions).
+Convert the array into a DataFrame, where the first column is the month (January, February, ...) and the second column is the revenue.
+Find the average, minimum, and maximum revenue.
+Add a Growth column that shows the difference in revenue between the current and previous month.
+
+
+
+
+Задача 4 (NumPy + Pandas): Анализ доходов компании
+Создай массив NumPy из 12 случайных чисел от 1 до 10 (доход компании в миллионах за каждый месяц).
+Преобразуй массив в DataFrame, где первый столбец — месяц (Январь, Февраль, ...), второй — доход.
+Найди средний, минимальный и максимальный доход.
+Добавь столбец Рост, который показывает разницу дохода между текущим и предыдущим месяцем.
