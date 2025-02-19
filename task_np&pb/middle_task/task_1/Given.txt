@@ -1,0 +1,22 @@
+Task 1 (NumPy + Pandas + Matplotlib): Time Series Sales Analysis
+You have sales data for 2 years (730 days). Your task is to:
+
+Generate a NumPy array of 730 random numbers (daily sales, ranging from 10 to 200).
+Create a DataFrame, where:
+The first column is dates (from "2022-01-01" to "2023-12-31").
+The second column is sales.
+Add a column with a 30-day moving average.
+Plot a line chart of sales, including the moving average line.
+Determine the month with the highest average sales.
+
+
+
+
+Задача 1 (NumPy + Pandas + Matplotlib): Анализ временных рядов продаж
+У тебя есть данные о продажах за 2 года (730 дней). Нужно:
+
+Сгенерировать массив NumPy из 730 случайных чисел (количество продаж в день, от 10 до 200).
+Создать DataFrame, где первый столбец — это даты (от 2022-01-01 до 2023-12-31), а второй — продажи.
+Добавить колонку со скользящим средним за 30 дней.
+Построить график продаж (линейный график), добавив линию скользящего среднего.
+Определить месяц с наибольшими средними продажами.
