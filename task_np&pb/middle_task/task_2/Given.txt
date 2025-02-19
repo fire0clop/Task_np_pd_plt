@@ -1,0 +1,31 @@
+Task 2 (Pandas + Matplotlib): Customer Data Analysis and Preprocessing
+You have a DataFrame with online store customer data:
+
+ID	Name	Age	City	Purchases	Avg_Check
+1	Ivan	25	Moscow	5	4000
+2	Anna	37	SPb	8	3000
+3	Oleg	45	Kazan	2	12000
+4	Elena	31	Moscow	10	5000
+5	Maxim	29	Yekaterinburg	6	3500
+Tasks:
+Add a new column Total_Revenue (Avg_Check * Purchases).
+Find the top 3 customers with the highest total revenue.
+Determine the city with the highest total revenue.
+Create a bar chart (plt.bar()) showing total revenue per city.
+
+
+
+
+Задача 2 (Pandas + Matplotlib): Анализ и предобработка данных о клиентах
+У тебя есть DataFrame с клиентами интернет-магазина:
+
+ID	Имя	Возраст	Город	Количество покупок	Средний чек
+1	Иван	25	Москва	5	4000
+2	Анна	37	СПб	8	3000
+3	Олег	45	Казань	2	12000
+4	Елена	31	Москва	10	5000
+5	Максим	29	Екатеринбург	6	3500
+Добавь новый столбец Общий доход (Средний чек * Количество покупок).
+Найди 3 клиента с максимальным общим доходом.
+Определи город с наибольшей суммарной выручкой.
+Построй столбчатую диаграмму (plt.bar()) с общими доходами по городам.
