@@ -13,5 +13,5 @@ plt.bar(revenue_by_city.index, revenue_by_city.values)
 plt.xlabel('City')
 plt.ylabel('Total Revenue')
 plt.title('Total Revenue by City')
-plt.xticks(rotation=45)  # Поворот подписей для читаемости
+plt.xticks(rotation=45)
 plt.show()
