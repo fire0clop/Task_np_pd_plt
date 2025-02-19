@@ -1,0 +1,14 @@
+Task 6 (Pandas + Matplotlib): Student Grades Analysis and Visualization
+Create a DataFrame with student grades for 5 subjects: Mathematics, Physics, Chemistry, Literature, and History.
+Calculate the average grade for each subject.
+Plot a bar chart (plt.bar()) with the average grades.
+Plot a pie chart (plt.pie()) showing the percentage of students who scored above 4.
+
+
+
+
+Задача 6 (Pandas + Matplotlib): Анализ и визуализация оценок студентов
+Создай DataFrame с данными об оценках студентов по 5 предметам (Математика, Физика, Химия, Литература, История).
+Рассчитай среднюю оценку по каждому предмету.
+Построй столбчатую диаграмму (plt.bar()) со средними оценками.
+Построй круговую диаграмму (plt.pie()), показывающую процент студентов, получивших оценки выше 4.
