@@ -1,0 +1,9 @@
+Task 1 (NumPy): Working with arrays and statistics
+Create a NumPy array of size 10×5
+10×5, filled with random numbers from 1 to 50.
+Find the mean value for each column.
+Identify the row indices where the sum of elements is greater than 200.
+Task condition:
+"Create a 10 × 5
+10×5 NumPy array filled with random numbers from 1 to 50.
+Find the mean value for each column and determine the row indices where the sum of elements exceeds 200."

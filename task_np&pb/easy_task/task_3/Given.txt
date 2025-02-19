@@ -1,0 +1,26 @@
+Task 3 (Pandas): Online Store Sales Analysis
+Create a DataFrame simulating online store sales data:
+
+Date	Product	Category	Price	Quantity
+2024-01-01	Laptop	Electronics	70000	2
+2024-01-02	Mouse	Electronics	1500	5
+2024-01-03	Kettle	Home Appliances	3000	3
+2024-01-04	Book	Books	800	10
+Add a Total Sales column, which calculates the total revenue (Price * Quantity).
+Determine the category with the highest revenue.
+Find the average product price per category.
+Identify the day with the highest revenue.
+
+
+Задача 3 (Pandas): Анализ продаж интернет-магазина
+Создай DataFrame, имитирующий данные интернет-магазина:
+
+Дата	Товар	Категория	Цена	Количество
+2024-01-01	Ноутбук	Электроника	70000	2
+2024-01-02	Мышка	Электроника	1500	5
+2024-01-03	Чайник	Бытовая техника	3000	3
+2024-01-04	Книга	Книги	800	10
+Добавь столбец Общая сумма, который рассчитывает сумму продаж (Цена * Количество).
+Определи категорию товаров с наибольшей выручкой.
+Найди среднюю цену товара по каждой категории.
+Определи день с максимальной выручкой.

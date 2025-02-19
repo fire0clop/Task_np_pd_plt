@@ -1,0 +1,17 @@
+Task 2 (NumPy): Temperature Data Analysis
+Create a NumPy array of 364 random numbers in the range of -10 to 35
+(simulating daily temperatures for a year).
+Find the average, minimum, and maximum temperature.
+Determine the number of days when the temperature was below 0°C.
+Calculate the 7-day moving average of the temperature
+
+
+
+
+
+Задача 2 (NumPy): Анализ температурных данных
+Создай массив NumPy из 364 случайных чисел в диапазоне от -10 до 35
+(это имитация температур на каждый день года).
+Найди среднюю, минимальную и максимальную температуру.
+Определи количество дней, когда температура была ниже 0 градусов.
+Найди скользящее среднее температуры за 7 дней
